@@ -1,0 +1,5 @@
+package flaky
+
+object Test {
+
+}
